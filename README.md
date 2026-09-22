@@ -1,8 +1,9 @@
-# Mitr Phol AI Day
+# Work smart with AI for Business Analyst
 
-Public learner exercise materials for two Prompt Engineering for Business Efficiency sessions:
+Learner materials สำหรับหลักสูตร Business Analyst ที่ฝึกใช้ `Copilot Chat` อย่างเป็นระบบและตรวจสอบได้
 
-- Data Product Owner
-- Employees
+- [เปิดเว็บไซต์หลักสูตร](https://teerasej.github.io/mitr-phol-ai-day/)
+- [อ่านเนื้อหาจากหน้าแรก](./index.md)
+- [ดูวิธีแก้ไขและ preview เว็บไซต์](./CONTRIBUTING.md)
 
-The exercises will use Thai-first explanations while preserving English Microsoft product names, UI labels, and technical terms.
+เนื้อหา workshop ใช้ข้อมูลสมมติและจัดทำเพื่อการเรียนรู้แบบ public-safe
